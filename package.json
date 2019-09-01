@@ -4,6 +4,7 @@
   "scripts": {
     "start": "nodemon server.js"
   },
+  "main": "server.js",
   "private": true,
   "dependencies": {
     "@types/jasminewd2": "~2.0.3",
